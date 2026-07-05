@@ -23,15 +23,15 @@ Earth Observation Scientist from Uruguay, based in France since 2022. Finishing 
 <table>
   <tr>
     <td><strong>Earth Observation</strong></td>
-    <td>Change detection, wildfire monitoring, flood mapping, land use/land cover, land surface temperature, multispectral and SAR imagery analysis, environmental monitoring</td>
+    <td>Change detection, wildfire monitoring, flood mapping, land use/land cover, land surface temperature, SAR imagery analysis, environmental monitoring</td>
   </tr>
   <tr>
     <td><strong>Geospatial Dev</strong></td>
-    <td>QGIS, ArcGIS, Google Earth Engine, GeoPandas, spatial data pipelines, CAD/BIM integration, IGN Geoplateforme</td>
+    <td>Spatial data pipelines, GIS workflows, routing and network analysis, CAD/BIM integration, IGN Geoplateforme, web mapping</td>
   </tr>
   <tr>
     <td><strong>Machine Learning</strong></td>
-    <td>Python, PyTorch, TorchGeo, Rasterio, GDAL, semantic segmentation, foundation model fine-tuning, scikit-learn</td>
+    <td>Semantic segmentation, foundation model fine-tuning, supervised and unsupervised learning, geospatial deep learning</td>
   </tr>
 </table>
 
