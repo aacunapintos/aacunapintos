@@ -35,6 +35,19 @@ Earth Observation Scientist from Uruguay, based in France since 2022. Finishing 
   </tr>
 </table>
 
+## Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/GDAL-5C8A3C?style=flat-square&logoColor=white" alt="GDAL"/>
+  <img src="https://img.shields.io/badge/Rasterio-8B7355?style=flat-square&logoColor=white" alt="Rasterio"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+
 ## Certifications
 
 <p align="center">
@@ -53,17 +66,4 @@ Earth Observation Scientist from Uruguay, based in France since 2022. Finishing 
   <a href="https://www.credly.com/badges/a7247b35-18d5-493a-a241-61567c3f097d">
     <img src="https://img.shields.io/badge/Python%20for%20Data%20Science%20%26%20AI-IBM-006699?style=for-the-badge&logo=ibm&logoColor=white" alt="Python for Data Science and AI"/>
   </a>
-</p>
-
-## Technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/GDAL-5C8A3C?style=flat-square&logoColor=white" alt="GDAL"/>
-  <img src="https://img.shields.io/badge/Rasterio-8B7355?style=flat-square&logoColor=white" alt="Rasterio"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
