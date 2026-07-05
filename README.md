@@ -16,23 +16,21 @@
 
 ---
 
-Earth Observation Scientist from Uruguay, based in France since 2022. Finishing an MSc in Geomatics Engineering and Urban Planning at Polytech Lille, applying deep learning to Earth Observation: burn scar segmentation, change detection, and automated feature extraction from satellite imagery.
-
-Currently fine-tuning **Prithvi-100M** (IBM/NASA) on Sentinel-2 L2A to segment wildfire burn scars, and developing GeoAI pipelines for urban heat island analysis using multitemporal Landsat data.
+Earth Observation Scientist from Uruguay, based in France since 2022. Finishing an MSc in Geomatics Engineering and Urban Planning at Polytech Lille, applying machine learning to Earth Observation: burn scar segmentation, change detection, and automated feature extraction from satellite imagery.
 
 ## Skill Highlights
 
 <table>
   <tr>
     <td><strong>Earth Observation</strong></td>
-    <td>Wildfire monitoring, multispectral and SAR imagery analysis, change detection, land surface temperature, territorial analysis</td>
+    <td>Change detection, wildfire monitoring, flood mapping, land use/land cover, land surface temperature, multispectral and SAR imagery analysis, environmental monitoring</td>
   </tr>
   <tr>
     <td><strong>Geospatial Dev</strong></td>
     <td>QGIS, ArcGIS, Google Earth Engine, GeoPandas, spatial data pipelines, CAD/BIM integration, IGN Geoplateforme</td>
   </tr>
   <tr>
-    <td><strong>Deep Learning</strong></td>
+    <td><strong>Machine Learning</strong></td>
     <td>Python, PyTorch, TorchGeo, Rasterio, GDAL, semantic segmentation, foundation model fine-tuning, scikit-learn</td>
   </tr>
 </table>
