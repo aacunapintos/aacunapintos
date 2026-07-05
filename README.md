@@ -38,22 +38,20 @@ Earth Observation Scientist from Uruguay, based in France since 2022. Finishing 
 ## Certifications
 
 <p align="center">
-  <a href="https://www.credly.com/badges/d4c85ef8-98a3-42e0-9c1b-155b8e4b8eb6" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/867eb08e-4f52-41ad-a67b-deabee299f1d/image.png" alt="Deep Learning Specialization"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/a7247b35-18d5-493a-a241-61567c3f097d" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" alt="Python for Data Science and AI"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/dd90eaa5-92ff-4ebf-8480-22461bec443f" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics"/>
+  <a href="https://coursera.org/share/a71c325352f3154ab6b5166d2db09787">
+    <img src="https://img.shields.io/badge/Machine%20Learning%20Specialization-Stanford%20%7C%20DeepLearning.AI-B22222?style=for-the-badge&logo=coursera&logoColor=white" alt="Machine Learning Specialization"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://coursera.org/share/a71c325352f3154ab6b5166d2db09787">
-    <img src="https://img.shields.io/badge/Machine%20Learning%20Specialization-Stanford%20%7C%20DeepLearning.AI-8B1A1A?style=flat-square&logo=coursera&logoColor=white" alt="Machine Learning Specialization"/>
+  <a href="https://www.credly.com/badges/d4c85ef8-98a3-42e0-9c1b-155b8e4b8eb6">
+    <img src="https://img.shields.io/badge/Deep%20Learning%20Specialization-DeepLearning.AI-E8622A?style=for-the-badge&logo=coursera&logoColor=white" alt="Deep Learning Specialization"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/a7247b35-18d5-493a-a241-61567c3f097d">
+    <img src="https://img.shields.io/badge/Python%20for%20Data%20Science%20%26%20AI-IBM-006699?style=flat-square&logo=ibm&logoColor=white" alt="Python for Data Science and AI"/>
   </a>
 </p>
 
