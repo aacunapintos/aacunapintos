@@ -48,8 +48,3 @@ Earth Observation Scientist from Uruguay, based in France since 2022. Finishing 
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
-## Featured Project
-
-**[Wildfire Burn Scar Detection](https://github.com/aacunapintos/wildfire-burn-scar-detection)**
-
-Semantic segmentation of wildfire burn scars on Sentinel-2 L2A imagery, fine-tuned from Prithvi-100M on the 2022 Corrientes fires in Argentina. Includes zero-shot generalization to unseen regions and T=2 temporal fusion.
