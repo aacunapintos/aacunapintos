@@ -52,17 +52,13 @@ Earth Observation Scientist from Uruguay, based in France since 2022. Finishing 
 
 <p align="center">
   <a href="https://coursera.org/share/a71c325352f3154ab6b5166d2db09787">
-    <img src="https://img.shields.io/badge/Machine%20Learning%20Specialization-Stanford%20%7C%20DeepLearning.AI-8C1515?style=for-the-badge&logo=coursera&logoColor=white" alt="Machine Learning Specialization"/>
+    <img src="https://img.shields.io/badge/ML%20Specialization-Stanford%20%7C%20DeepLearning.AI-8C1515?style=for-the-badge&logo=coursera&logoColor=white" alt="ML Specialization"/>
   </a>
-</p>
-
-<p align="center">
+  &nbsp;
   <a href="https://www.credly.com/badges/d4c85ef8-98a3-42e0-9c1b-155b8e4b8eb6">
-    <img src="https://img.shields.io/badge/Deep%20Learning%20Specialization-DeepLearning.AI-F7485E?style=for-the-badge&logo=coursera&logoColor=white" alt="Deep Learning Specialization"/>
+    <img src="https://img.shields.io/badge/DL%20Specialization-DeepLearning.AI-F7485E?style=for-the-badge&logo=coursera&logoColor=white" alt="DL Specialization"/>
   </a>
-</p>
-
-<p align="center">
+  &nbsp;
   <a href="https://www.credly.com/badges/a7247b35-18d5-493a-a241-61567c3f097d">
     <img src="https://img.shields.io/badge/Python%20for%20Data%20Science%20%26%20AI-IBM-006699?style=for-the-badge&logo=ibm&logoColor=white" alt="Python for Data Science and AI"/>
   </a>
