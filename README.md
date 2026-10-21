@@ -1,7 +1,7 @@
 <h1 align="center">Agustín Acuña Pintos</h1>
 
 <p align="center">
-  <em>Earth Observation Scientist · MSc Geomatics Engineering, Polytech Lille · Uruguay · France</em>
+  <em>MEng student in Geomatics and Urban Engineering (Polytech Lille)· Uruguay · France</em>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-Earth Observation Scientist from Uruguay, based in France since 2022. Finishing an MSc in Geomatics Engineering and Urban Planning at Polytech Lille, applying machine learning to Earth Observation: burn scar segmentation, change detection, and automated feature extraction from satellite imagery.
+From Uruguay, based in France since 2022. I hold a degree in Cartography from UdelaR (Uruguay) and a postgraduate diploma in Geoinformatics from UdG (Spain), and I'm currently completing a master's in Geomatics Engineering and Urban Planning at Polytech Lille.
 
 ## Skill Highlights
 
